@@ -1,2 +1,2 @@
-# Sales_Analysis_Using-_Pandas
+# Sales Analysis Using - Pandas
 Set of real world data science tasks completed using the Python Pandas library.
